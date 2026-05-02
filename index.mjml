@@ -1,0 +1,555 @@
+<mjml>
+  <mj-head>
+    <mj-title
+      >Welcome to Lectus Academy — Your Learning Journey Starts Here</mj-title
+    >
+    <mj-preview
+      >You're in! Discover the tools that will transform how you learn
+      🎓</mj-preview
+    >
+
+    <mj-attributes>
+      <mj-all font-family="'DM Sans', Arial, Helvetica, sans-serif" />
+      <mj-text font-size="15px" line-height="1.7" color="#1e1b4b" />
+      <mj-button font-family="'DM Sans', Arial, Helvetica, sans-serif" />
+    </mj-attributes>
+
+    <mj-style>
+      @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500&display=swap");
+
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #f0f4ff;
+      }
+      img {
+        display: block;
+        max-width: 100%;
+        border: 0;
+        outline: none;
+        text-decoration: none;
+      }
+
+      .headline {
+        font-family: "Playfair Display", Georgia, serif !important;
+        font-weight: 700 !important;
+        letter-spacing: -0.5px !important;
+      }
+      .subtext {
+        font-family: "DM Sans", Arial, sans-serif !important;
+        font-weight: 400 !important;
+        letter-spacing: 0.2px !important;
+      }
+      .label-caps {
+        font-family: "DM Sans", Arial, sans-serif !important;
+        font-size: 11px !important;
+        letter-spacing: 2.5px !important;
+        text-transform: uppercase !important;
+        font-weight: 500 !important;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .wrapper {
+          width: 100% !important;
+        }
+        .mobile-padding {
+          padding: 24px 20px !important;
+        }
+        .headline {
+          font-size: 28px !important;
+        }
+        .feature-grid td {
+          display: block !important;
+          width: 100% !important;
+          padding: 12px 0 !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f0f4ff">
+    <mj-section
+      background-color="#ffffff"
+      border-radius="20px 20px 0 0"
+      padding="28px 40px 22px"
+    >
+      <mj-column>
+        <mj-table align="center" css-class="subtext">
+          <tr>
+            <td align="center" style="padding-bottom: 6px">
+              <table cellpadding="0" cellspacing="0" border="0" align="center">
+                <tr>
+                  <td
+                    style="
+                      background: linear-gradient(135deg, #6c63ff, #a78bfa);
+                      border-radius: 12px;
+                      width: 44px;
+                      height: 44px;
+                      text-align: center;
+                      vertical-align: middle;
+                      padding: 0;
+                    "
+                  >
+                    <span
+                      style="
+                        font-family:
+                          &quot;Playfair Display&quot;, Georgia, serif;
+                        font-size: 23px;
+                        font-weight: 700;
+                        color: #ffffff;
+                        line-height: 44px;
+                        display: block;
+                      "
+                      >L</span
+                    >
+                  </td>
+                  <td style="padding-left: 11px; vertical-align: middle">
+                    <span
+                      style="
+                        font-family:
+                          &quot;Playfair Display&quot;, Georgia, serif;
+                        font-size: 23px;
+                        font-weight: 700;
+                        color: #1e1b4b;
+                        letter-spacing: -0.4px;
+                      "
+                      >Lectus Academy</span
+                    >
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <span
+                style="
+                  font-family: &quot;DM Sans&quot;, Arial, sans-serif;
+                  font-size: 10px;
+                  letter-spacing: 2.8px;
+                  text-transform: uppercase;
+                  color: #a78bfa;
+                  font-weight: 500;
+                "
+                >Education Platform</span
+              >
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#7b68ee" padding="44px 48px 0">
+      <mj-column>
+        <mj-table align="center">
+          <tr>
+            <td align="center" style="padding-bottom: 20px">
+              <table cellpadding="0" cellspacing="0" border="0" align="center">
+                <tr>
+                  <td
+                    style="
+                      background: rgba(255, 255, 255, 0.18);
+                      border-radius: 20px;
+                      padding: 10px 22px;
+                    "
+                  >
+                    <span
+                      style="
+                        font-family: &quot;DM Sans&quot;, Arial, sans-serif;
+                        font-size: 11px;
+                        letter-spacing: 2.5px;
+                        text-transform: uppercase;
+                        color: #ffffff;
+                        font-weight: 500;
+                      "
+                      >✦ &nbsp;Your account is ready &nbsp;✦</span
+                    >
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-text
+          align="center"
+          font-size="72px"
+          line-height="1"
+          padding-bottom="22px"
+        >
+          🎓
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="38px"
+          line-height="1.2"
+          font-weight="700"
+          color="#ffffff"
+          css-class="headline"
+          padding-bottom="16px"
+        >
+          Welcome aboard,<br />Emma ✦
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.75"
+          color="rgba(255,255,255,0.85)"
+          css-class="subtext"
+          padding-bottom="32px"
+        >
+          We're thrilled to have you join Lectus Academy.<br />Your personalized
+          learning space is ready to explore.
+        </mj-text>
+
+        <mj-button
+          background-color="#ffffff"
+          color="#6c63ff"
+          font-size="15px"
+          font-weight="700"
+          letter-spacing="0.3px"
+          border-radius="50px"
+          href="https://app.lectusacademy.io/dashboard"
+          css-class="subtext"
+          inner-padding="15px 40px"
+        >
+          Go to My Dashboard →
+        </mj-button>
+
+        <mj-text
+          align="center"
+          font-size="12px"
+          color="rgba(255,255,255,0.6)"
+          css-class="subtext"
+          padding-top="12px"
+        >
+          app.lectusacademy.io/dashboard
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#7b68ee" padding="32px 0 0">
+      <mj-column padding="0">
+        <mj-image
+          src="https://placehold.co/600x48/7b68ee/7b68ee?text=+"
+          alt=""
+          padding="0"
+          width="600px"
+          height="48px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="36px 40px 12px">
+      <mj-column>
+        <mj-text
+          align="center"
+          css-class="label-caps"
+          color="#a78bfa"
+          font-size="11px"
+          padding-bottom="8px"
+        >
+          What's inside
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="26px"
+          font-weight="700"
+          line-height="1.3"
+          css-class="headline"
+          color="#1e1b4b"
+          padding-bottom="10px"
+        >
+          Three Features to Get You Started
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="#6b7280"
+          css-class="subtext"
+          line-height="1.65"
+        >
+          Everything you need to build a learning habit that sticks at Lectus
+          Academy.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#ffffff"
+      padding="16px 28px 28px"
+      css-class="feature-grid"
+    >
+      <mj-column
+        background-color="#ede9fe"
+        border-radius="16px"
+        padding="24px 18px"
+        width="33.33%"
+        css-class="feature-card"
+      >
+        <mj-table align="center">
+          <tr>
+            <td align="center" style="padding-bottom: 14px">
+              <div
+                style="
+                  width: 50px;
+                  height: 50px;
+                  background: linear-gradient(135deg, #8b5cf6, #6c63ff);
+                  border-radius: 14px;
+                  text-align: center;
+                  line-height: 50px;
+                  font-size: 22px;
+                  margin: 0 auto;
+                "
+              >
+                🗺️
+              </div>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text
+          align="center"
+          font-size="14px"
+          font-weight="700"
+          color="#4c1d95"
+          css-class="headline"
+          padding-bottom="8px"
+          line-height="1.3"
+        >
+          Personalized<br />Learning Paths
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="12px"
+          color="#6d28d9"
+          css-class="subtext"
+          line-height="1.65"
+        >
+          AI-curated curricula tailored to your pace, goals, and knowledge gaps.
+        </mj-text>
+      </mj-column>
+
+      <mj-column
+        background-color="#fce7f3"
+        border-radius="16px"
+        padding="24px 18px"
+        width="33.33%"
+        css-class="feature-card"
+      >
+        <mj-table align="center">
+          <tr>
+            <td align="center" style="padding-bottom: 14px">
+              <div
+                style="
+                  width: 50px;
+                  height: 50px;
+                  background: linear-gradient(135deg, #ec4899, #f472b6);
+                  border-radius: 14px;
+                  text-align: center;
+                  line-height: 50px;
+                  font-size: 22px;
+                  margin: 0 auto;
+                "
+              >
+                🎙️
+              </div>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text
+          align="center"
+          font-size="14px"
+          font-weight="700"
+          color="#831843"
+          css-class="headline"
+          padding-bottom="8px"
+          line-height="1.3"
+        >
+          Live Expert<br />Sessions
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="12px"
+          color="#be185d"
+          css-class="subtext"
+          line-height="1.65"
+        >
+          Join weekly live classes with vetted instructors and ask in real time.
+        </mj-text>
+      </mj-column>
+
+      <mj-column
+        background-color="#ccfbf1"
+        border-radius="16px"
+        padding="24px 18px"
+        width="33.33%"
+        css-class="feature-card"
+      >
+        <mj-table align="center">
+          <tr>
+            <td align="center" style="padding-bottom: 14px">
+              <div
+                style="
+                  width: 50px;
+                  height: 50px;
+                  background: linear-gradient(135deg, #14b8a6, #2dd4bf);
+                  border-radius: 14px;
+                  text-align: center;
+                  line-height: 50px;
+                  font-size: 22px;
+                  margin: 0 auto;
+                "
+              >
+                📊
+              </div>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text
+          align="center"
+          font-size="14px"
+          font-weight="700"
+          color="#134e4a"
+          css-class="headline"
+          padding-bottom="8px"
+          line-height="1.3"
+        >
+          Progress<br />Analytics
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="12px"
+          color="#0f766e"
+          css-class="subtext"
+          line-height="1.65"
+        >
+          Visual dashboards showing streaks, modules, and skill growth over
+          time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#fde68a"
+      border-radius="16px"
+      padding="34px 44px"
+      css-class="wrapper"
+    >
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="11px"
+          css-class="label-caps"
+          color="#92400e"
+          padding-bottom="8px"
+        >
+          Ready when you are
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="22px"
+          font-weight="700"
+          line-height="1.35"
+          css-class="headline"
+          color="#1c1917"
+          padding-bottom="12px"
+        >
+          Your first lesson is waiting. ✨
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="#78350f"
+          css-class="subtext"
+          padding-bottom="26px"
+          line-height="1.7"
+        >
+          We've pre-selected a starter course based on your signup
+          preferences.<br />Jump in whenever you're ready — no pressure, no
+          deadlines.
+        </mj-text>
+        <mj-button
+          background-color="#1c1917"
+          color="#fef9c3"
+          font-size="14px"
+          font-weight="600"
+          border-radius="50px"
+          href="https://app.lectusacademy.io/dashboard"
+          inner-padding="14px 34px"
+          css-class="subtext"
+        >
+          Open My Dashboard
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 0 0" background-color="#f0f4ff">
+      <mj-column><mj-text>&nbsp;</mj-text></mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#e8ecf8"
+      border-radius="16px"
+      padding="28px 40px 32px"
+    >
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="16px"
+          font-weight="700"
+          css-class="headline"
+          color="#6c63ff"
+          padding-bottom="4px"
+        >
+          Lectus Academy
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="12px"
+          css-class="subtext"
+          color="#6b7280"
+          padding-bottom="14px"
+        >
+          Building curious minds, one lesson at a time.
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="12px"
+          css-class="subtext"
+          color="#9ca3af"
+          padding-bottom="14px"
+        >
+          <a href="#" style="color: #8b5cf6; text-decoration: none"
+            >Help Center</a
+          >
+          &nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="#" style="color: #8b5cf6; text-decoration: none"
+            >Privacy Policy</a
+          >
+          &nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="#" style="color: #8b5cf6; text-decoration: none"
+            >Unsubscribe</a
+          >
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="11px"
+          color="#9ca3af"
+          css-class="subtext"
+        >
+          © 2026 Lectus Academy Education Inc. · 123 Learning Lane, San
+          Francisco, CA 94103<br />
+          You're receiving this because you signed up at lectusacademy.io
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px 0" background-color="#f0f4ff">
+      <mj-column><mj-text>&nbsp;</mj-text></mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
