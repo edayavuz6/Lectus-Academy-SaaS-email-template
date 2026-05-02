@@ -1,6 +1,8 @@
 📧 Lectus Academy — SaaS Welcome Email Template
 Production-ready responsive email engineering using MJML & VML.
 
+LİVE CODE: https://edayavuz6.github.io/Lectus-Academy-SaaS-email-template/
+
 This project features a high-conversion, cross-client compatible welcome email designed for Lectus Academy, a fictional EdTech platform. It demonstrates the ability to bridge modern web design aesthetics with the rigorous technical constraints of email rendering engines (e.g., Microsoft Outlook).
 
 🛠️ Technical Stack & Tools
